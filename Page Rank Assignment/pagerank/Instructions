@@ -1,0 +1,5 @@
+First run the spider.py file to scrape data from the web (http://www.dr-chuck.com/) which will create a SQLite Database (spider.sqlite)
+Run sprank.py to rank the web pages.
+Use spreset.py to reset and spdump.py to dump.
+Lastly, run spjson.py which will initialise force.js to create force.html.
+In order to view your visualization open force.html in your web browser.
